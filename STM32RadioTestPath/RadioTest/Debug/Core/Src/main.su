@@ -1,0 +1,14 @@
+../Core/Src/main.c:99:5:main	48	static
+../Core/Src/main.c:159:6:SystemClock_Config	96	static
+../Core/Src/main.c:209:13:MX_SPI1_Init	8	static
+../Core/Src/main.c:249:13:MX_USART2_UART_Init	8	static
+../Core/Src/main.c:284:13:MX_GPIO_Init	48	static
+../Core/Src/main.c:326:9:ReadRegister	32	static
+../Core/Src/main.c:337:6:TransmitToPC	16	static
+../Core/Src/main.c:341:6:SendCmdToRadio	24	static
+../Core/Src/main.c:350:6:SetPowerDown	16	static
+../Core/Src/main.c:355:6:SetStandby1	4	static
+../Core/Src/main.c:359:6:SetStandby2	4	static
+../Core/Src/main.c:363:6:SetTransmitMode	4	static
+../Core/Src/main.c:367:6:SetReceiveMode	4	static
+../Core/Src/main.c:378:6:Error_Handler	4	static,ignoring_inline_asm

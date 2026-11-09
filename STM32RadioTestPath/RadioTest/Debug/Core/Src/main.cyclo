@@ -1,0 +1,14 @@
+../Core/Src/main.c:99:5:main	1
+../Core/Src/main.c:159:6:SystemClock_Config	4
+../Core/Src/main.c:209:13:MX_SPI1_Init	2
+../Core/Src/main.c:249:13:MX_USART2_UART_Init	2
+../Core/Src/main.c:284:13:MX_GPIO_Init	1
+../Core/Src/main.c:326:9:ReadRegister	1
+../Core/Src/main.c:337:6:TransmitToPC	1
+../Core/Src/main.c:341:6:SendCmdToRadio	1
+../Core/Src/main.c:350:6:SetPowerDown	1
+../Core/Src/main.c:355:6:SetStandby1	1
+../Core/Src/main.c:359:6:SetStandby2	1
+../Core/Src/main.c:363:6:SetTransmitMode	1
+../Core/Src/main.c:367:6:SetReceiveMode	1
+../Core/Src/main.c:378:6:Error_Handler	1
